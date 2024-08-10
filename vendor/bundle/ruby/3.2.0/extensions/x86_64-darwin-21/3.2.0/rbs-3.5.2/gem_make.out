@@ -5,10 +5,29 @@ checking for whether -std=gnu99 is accepted as CFLAGS... yes
 creating Makefile
 
 current directory: /Users/katouyuuka/projects/ajax_app_rails7/vendor/bundle/ruby/3.2.0/gems/rbs-3.5.2/ext/rbs_extension
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+make DESTDIR\= sitearchdir\=./.gem.20240810-44569-yhcj9r sitelibdir\=./.gem.20240810-44569-yhcj9r clean
+
+current directory: /Users/katouyuuka/projects/ajax_app_rails7/vendor/bundle/ruby/3.2.0/gems/rbs-3.5.2/ext/rbs_extension
+make DESTDIR\= sitearchdir\=./.gem.20240810-44569-yhcj9r sitelibdir\=./.gem.20240810-44569-yhcj9r
+=======
+=======
+>>>>>>> 6397c045a0407241223db5b5657ac5ece2a10106
+>>>>>>> Stashed changes
 make DESTDIR\= sitearchdir\=./.gem.20240809-34276-lg00da sitelibdir\=./.gem.20240809-34276-lg00da clean
 
 current directory: /Users/katouyuuka/projects/ajax_app_rails7/vendor/bundle/ruby/3.2.0/gems/rbs-3.5.2/ext/rbs_extension
 make DESTDIR\= sitearchdir\=./.gem.20240809-34276-lg00da sitelibdir\=./.gem.20240809-34276-lg00da
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+>>>>>>> 6397c045a0407241223db5b5657ac5ece2a10106
+=======
+>>>>>>> 6397c045a0407241223db5b5657ac5ece2a10106
+>>>>>>> Stashed changes
 compiling constants.c
 compiling lexer.c
 compiling lexstate.c
@@ -22,8 +41,28 @@ linking shared-object rbs_extension.bundle
 ld: warning: -undefined dynamic_lookup may not work with chained fixups
 
 current directory: /Users/katouyuuka/projects/ajax_app_rails7/vendor/bundle/ruby/3.2.0/gems/rbs-3.5.2/ext/rbs_extension
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+make DESTDIR\= sitearchdir\=./.gem.20240810-44569-yhcj9r sitelibdir\=./.gem.20240810-44569-yhcj9r install
+/usr/bin/install -c -m 0755 rbs_extension.bundle ./.gem.20240810-44569-yhcj9r
+
+current directory: /Users/katouyuuka/projects/ajax_app_rails7/vendor/bundle/ruby/3.2.0/gems/rbs-3.5.2/ext/rbs_extension
+make DESTDIR\= sitearchdir\=./.gem.20240810-44569-yhcj9r sitelibdir\=./.gem.20240810-44569-yhcj9r clean
+=======
+=======
+>>>>>>> 6397c045a0407241223db5b5657ac5ece2a10106
+>>>>>>> Stashed changes
 make DESTDIR\= sitearchdir\=./.gem.20240809-34276-lg00da sitelibdir\=./.gem.20240809-34276-lg00da install
 /usr/bin/install -c -m 0755 rbs_extension.bundle ./.gem.20240809-34276-lg00da
 
 current directory: /Users/katouyuuka/projects/ajax_app_rails7/vendor/bundle/ruby/3.2.0/gems/rbs-3.5.2/ext/rbs_extension
 make DESTDIR\= sitearchdir\=./.gem.20240809-34276-lg00da sitelibdir\=./.gem.20240809-34276-lg00da clean
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+>>>>>>> 6397c045a0407241223db5b5657ac5ece2a10106
+=======
+>>>>>>> 6397c045a0407241223db5b5657ac5ece2a10106
+>>>>>>> Stashed changes
